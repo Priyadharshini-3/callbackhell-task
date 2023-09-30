@@ -1,0 +1,15 @@
+body{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 110px;
+    padding:125px;
+    background-color:darkblue;
+}
+#countdown{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    align-items:stretch;
+    text-shadow: 1px 1px;
+    color: goldenrod;
+    font-size: 100px;
+}
